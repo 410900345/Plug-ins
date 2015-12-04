@@ -1,1 +1,1 @@
-~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins  插件
+~/Library/Application Support/Developer/Shared/Xcode/Plug-ins  插件
